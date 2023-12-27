@@ -97,7 +97,7 @@ const userSchemaDeneme=new mongoose.Schema({
       });
     
   
-
+      console.log("aaaaaaaaaaa")
  
 
 
